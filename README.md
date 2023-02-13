@@ -1,6 +1,8 @@
 # Hotel-Booking-Analysis
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
+
 We will perform exploratory data analysis with the help of python and other tools to get insights from the data.
+
 Here we have tried to answer the following questions:-
 1.	How Many Booking Were Cancelled?
 2.	What is the booking ratio between Resort Hotel and City Hotel?
@@ -9,7 +11,8 @@ Here we have tried to answer the following questions:-
 5.	From which country most guest come?
 6.	How Long People Stay in the hotel?
 7.	Which was the most booked accommodation type (Single, Couple, Family)?
-After that we made the predictive model to predict whether the booking will be cancelled or not
+
+
 Here we will perform the following operations:
 •	Feature Engineering to make new features
 •	Data Selection to select only relevant features
@@ -17,11 +20,16 @@ Here we will perform the following operations:
 •	Split the data (Train Test Split)
 •	Model the data (Fit the Data)
 •	And finally Evaluate our model
+
+
 Tools and libraries we have used is Python 3 and to its following packages, pandas matplotlib, seaborn, etc.:
+
 Files
 This repository contains two files other than readme file
 Hotel Booking.ipynb: Google Colaboratory  Notebook file contains all the python code, documentation and visualization
 hotel_bookings.csv: Our dataset file
+
+
 Dataset contains following features:
 1.	hotel
 2.	is_canceled
@@ -55,6 +63,9 @@ Dataset contains following features:
 30.	total_of_special_requests
 31.	reservation_status
 32.	reservation_status_date
+
+
+
 Result
 We learned that
 1.	City hotels are the most preferred hotel type by the guests and we can say City hotel is the busiest hotel. Hence, City hotel seems to be making more revenue.
