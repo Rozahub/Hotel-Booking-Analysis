@@ -67,7 +67,9 @@ Dataset contains following features:
 
 
 Result
+
 We learned that
+
 1.	City hotels are the most preferred hotel type by the guests and we can say City hotel is the busiest hotel. Hence, City hotel seems to be making more revenue.
 2.	We get to know that 98.7% of the guests prefer "No deposit" type of deposit
 3.	Only 3.9% people revisit the hotels. Rest 96.1 % were new guests. Therefore, retention rate is low.
